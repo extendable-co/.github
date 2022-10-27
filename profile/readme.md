@@ -4,6 +4,6 @@ Building and delivering high performance, mission critical manufacturing managem
 
 Visit our website at [extendable.co](https://extendable.co), or contact:
 
-* Justus Languell <jlanguell@extendable.co>
-* Omar Afzal <oafzal@extendable.co>
-* Suhas Guddeti <sguddeti@extendable.co>
+* Justus Languell <<jlanguell@extendable.co>>
+* Omar Afzal <<oafzal@extendable.co>>
+* Suhas Guddeti <<sguddeti@extendable.co>>
